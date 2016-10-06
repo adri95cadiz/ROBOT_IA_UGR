@@ -1,0 +1,12 @@
+// SizeMap, Initial position, dirty probability, random seed, map
+1 1 0.01 1
+O O O O O O O O O O
+O - - - - - - - - O
+O O - O O O - - - O
+O - - O O O - - - O
+O - - O O O - - - O
+O O - - - - - - - O
+O - - - - - - - - O
+O - - O - - O - - O
+O - - - - - - - - O
+O O O O O O O O O O
